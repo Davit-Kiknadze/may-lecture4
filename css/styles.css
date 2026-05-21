@@ -1,0 +1,25 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.story{
+    width: 330px;
+    height: 402px;
+    background-color: #ffff;
+    border-radius: 10px;
+    margin-top: 228px;
+    margin-left: 408px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 10px 30px 17px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0px 10px 30px 17px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: 0px 10px 30px 17px rgba(0, 0, 0, 0.05);
+  padding: 24px 20px;
+}
+.story-photo{
+    margin: 228px 1182px 384px 408px;
+
+}
+.profile-photo{
+    margin: 408px 1460px 332px 428px;
+}
